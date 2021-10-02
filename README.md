@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deevesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeveshgupta70&label=Profile%20views&color=0e75b6&style=flat" alt="deeveshgupta70" /> </p>
+
 - 🌱 I’m currently learning **Cp**
 
 - 👨‍💻 All of my projects are available at [https://deeveshgupta70.github.io/new_portfolio/](https://deeveshgupta70.github.io/new_portfolio/)
